@@ -13,3 +13,10 @@ The print function in Python is used to display output on the console. This repo
 ## Input Function
 
 The input function allows users to interact with a Python program by entering data. This repository demonstrates how to use the input function to prompt users for input and store it in variables. You will learn how to handle user input, convert input to different data types, and display appropriate messages based on user responses.
+
+## Python Functions
+
+Python functions are blocks of reusable code that perform specific tasks. They allow you to encapsulate logic, organize your code, and make it more modular. This repository demonstrates how to define functions, pass arguments to functions, and return values from functions. You will learn about function parameters, default arguments, and how to call functions in your Python programs.
+
+
+
